@@ -1,2 +1,1 @@
-# anna
 Python helpers.
